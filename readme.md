@@ -2,7 +2,7 @@
 
 ## Overview
 
-Final project for **Multimedia Systems and Applications**.
+Final project for **Multimedia Systems and Applications** by **Group 2**
 
 A from-scratch implementation of the JPEG compression pipeline in Python. The encoder and decoder are fully separated, and no built-in JPEG libraries are used — every stage of the standard is implemented manually.
 
